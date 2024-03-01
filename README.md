@@ -49,7 +49,7 @@ Here are some features and improvements I'm planning to add to Dipcy:
 
 ## Author
 
-Dipcy was developed by [AntonKolomiiets], a passionate software developer and digital artist. For inquiries, contributions, or feedback, feel free to reach out.
+Dipcy was developed by Anton Kolomiiets, a passionate software developer and digital artist. For inquiries, contributions, or feedback, feel free to reach out.
 
 - Email: rykerography@gmail.com
 - GitHub: [AntonKolomiiets](https://github.com/AntonKolomiiets)
