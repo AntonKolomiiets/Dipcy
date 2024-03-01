@@ -1,0 +1,4 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+PySide6==6.6.2
+scipy==1.12.0
